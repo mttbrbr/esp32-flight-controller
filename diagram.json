@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "author": "auto",
+  "editor": "wokwi",
+  "name": "Drone (ESP32 + MPU6050)",
+  "connections": [],
+  "parts": [
+    { "id": "board1", "type": "esp32dev" },
+    { "id": "imu1", "type": "mpu6050" }
+  ]
+}
